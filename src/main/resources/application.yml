@@ -6,5 +6,9 @@ eureka:
     register-with-eureka: false    # Eureka server does not register with itself
     fetch-registry: false           # Eureka server does not fetch registry (no need)
   instance:
+<<<<<<< HEAD
 		
     hostname: localhost
+=======
+    hostname: localhost
+>>>>>>> fbbc4d9654c9ec83c2ace17891e60958fe944182
